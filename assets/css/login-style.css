@@ -166,7 +166,7 @@ body {
 @media (max-width: 850px) {
      .container {
           width: max(30%, 350px);
-          height: 90vh;
+          height: max(90vh, 650px);
           padding-top: 40px;
      }
 
